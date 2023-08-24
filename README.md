@@ -1,1 +1,1 @@
-# NODE-WEEK-8-MINI-PROJECT-
+A shop inventory refers to the complete list of products, items, or goods that a retail store or business has in stock and available for sale. It serves as a crucial tool for managing and tracking the products a shop carries. A shop inventory system typically includes information about each product's attributes, such as its name, unique identifier (ID), price, and the quantity or stock level currently available.
